@@ -2,6 +2,7 @@
 ss.html
 node_modules
 __MACOSX
+.DS_STORE
 
 # Logs
 logs
